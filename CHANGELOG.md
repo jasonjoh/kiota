@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Adds Go authentication, http and serialization libraries and finalizes the generation #716
+
 ### Changed
 
 - Switched to URL templates instead of string contract for URL building #683
